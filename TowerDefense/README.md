@@ -1,4 +1,4 @@
-# RG124-tower-defense
+# Tower-defense
 Tower Defense
 
 Download the game content. Compile the code by typing `make` command, then start it with `./main` command.
